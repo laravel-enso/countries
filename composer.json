@@ -15,7 +15,8 @@
         "laravel-enso/helpers": "^4.0",
         "laravel-enso/migrator": "^2.1",
         "laravel-enso/rememberable": "^4.0",
-        "laravel-enso/select": "^5.0"
+        "laravel-enso/select": "^5.0",
+        "laravel/framework": "^10.0|^11.0|^12.0|^13.0"
     },
     "license": "MIT",
     "authors": [
